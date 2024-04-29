@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-22T05:54:36" hostname="EUNSIKui-MacBookPro.local" time="0.412">
+  <properties/>
+  <testcase name="dollar()" classname="Test" time="0.399"/>
+  <testcase name="mock()" classname="Test" time="0.006"/>
+  <testcase name="hello()" classname="Test" time="0.005"/>
+  <system-out><![CDATA[hello
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
